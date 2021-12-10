@@ -1,0 +1,10 @@
+.parent {
+    border: 1px solid orange;
+    border-radius: .5em;
+    padding: 0 1em 1em 1em;
+    color: orange;
+}
+
+input { 
+    margin-bottom: 1em;
+}
